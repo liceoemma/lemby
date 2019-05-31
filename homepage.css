@@ -1,0 +1,13 @@
+h1.titolo {
+	margin: 0px;
+	background-image: url("tumore_css.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center 0px;
+	background-size: cover;
+	font-size: 500%;
+	font-weight: normal;
+	line-height: 600px;
+	text-align: center;
+}
+	
